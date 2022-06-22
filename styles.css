@@ -1,0 +1,40 @@
+body{
+    background-color: #fdf8f8;
+    color: #c16868;
+}
+a{
+    color: #f8acac;
+}
+a:hover{
+    color: #ec7979;
+}
+.td1{
+    
+    float: right;
+    padding-left:4px;
+padding-right: 8px;
+}
+.img2{
+    width: 600px;
+    height: 650px;
+    display: inline;
+    float: right;
+}
+.Space{
+    
+    float: right;
+    padding-left:5px;
+padding-right: 10px;
+font-size: 25px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sizes{
+    
+        width: 40px;
+    
+}
+.Space1{
+    float: left;
+    font-size: 50px;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
